@@ -64,7 +64,7 @@ Scanner teclado = new Scanner(System.in);//---creando objeto para pedir datos po
              
        } 
        
-     //contibucion carlos cogua
+     //contibucion carlos arnulfo  cogua laverde
             // comparacion de puntuacion mayor     
             for(f=0 ; f< SedeFila.length ; f++)
             { 
@@ -84,7 +84,7 @@ Scanner teclado = new Scanner(System.in);//---creando objeto para pedir datos po
                 
           }
           }
-        System.out.println("Con una votacion de  "+ numerom+ " el candidadto ganador para director de sede yopal  es ; " +casilla);
+        System.out.println("Con una votación de  "+ numerom+ " el candidadto ganador para director de sede yopal  es ; " +casilla);
 
     }   
     
